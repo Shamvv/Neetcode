@@ -1,34 +1,28 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        res = []
-        i, j = 0, 0
-        while i < len(nums1) and j < len(nums2):
-            if nums1[i] < nums2[j]:
-                res.append(nums1[i])
-                i += 1
-            elif nums1[i] > nums2[j]:
-                res.append(nums2[j])
-                j += 1
-            else:
-                res.append(nums1[i])
-                res.append(nums2[j])
-                i += 1
-                j += 1
-        while i < len(nums1):
-            res.append(nums1[i])
-            i += 1
-        while j < len(nums2):
-            res.append(nums2[j])
-            j += 1
-        l = len(res)
-        if l == 1:
-            return res[0]
-        elif l == 2:
-            return (res[0] + res[1]) / 2
-        l, r = 0, len(res) - 1
-        while l <= r:
+        A, B = nums1, nums2
+        total = len(nums1) + len(nums2)
+        half = total // 2
+
+        if len(B) < len(A):
+            A, B = B, A
+        
+        l, r = 0, len(A) - 1
+        while True:
             m = (l + r) // 2
-            if len(res) % 2 == 1:
-                return res[m]
+            j = half - m - 2
+
+            Aleft = A[m] if m >= 0 else float("-infinity")
+            Aright = A[m + 1] if (m + 1) < len(A) else float("infinity")
+            Bleft = B[j] if j >= 0 else float("-infinity")
+            Bright = B[j + 1] if (j + 1) < len(B) else float("infinity")
+
+            if Aleft <= Bright and Bleft <= Aright:
+                if total % 2:
+                    return min(Aright, Bright)
+                return (max(Aleft, Bleft) + min(Aright, Bright)) / 2
+            elif Aleft > Bright:
+                r = m - 1
             else:
-                return ((res[m] + res[m + 1])/2)
+                l = m + 1
+        
