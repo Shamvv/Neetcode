@@ -4,7 +4,6 @@ class Solution:
         n = k // s
         k -= s * n
         for kid, chalk in enumerate(chalks):
-            k -= chalk
-            if k < 0:
+            if chalk > k:
                 return kid
-        assert(False)
+            k -= chalk
