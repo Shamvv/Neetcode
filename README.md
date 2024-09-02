@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shamvv/Neetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamvv/Neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shamvv/Neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shamvv/Neetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shamvv/Neetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shamvv/Neetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamvv/Neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
