@@ -1,7 +1,5 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        a = "abcdefghijklmnopqrstuvwxyz"
-
         n1 = len(s1)
         n2 = len(s2)
 
