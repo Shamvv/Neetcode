@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shamvv/Neetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1023-time-based-key-value-store](https://github.com/Shamvv/Neetcode/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shamvv/Neetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1023-time-based-key-value-store](https://github.com/Shamvv/Neetcode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamvv/Neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shamvv/Neetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
