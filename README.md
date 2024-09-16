@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shamvv/Neetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamvv/Neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shamvv/Neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0539-minimum-time-difference](https://github.com/Shamvv/Neetcode/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/Shamvv/Neetcode/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shamvv/Neetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shamvv/Neetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shamvv/Neetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shamvv/Neetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0539-minimum-time-difference](https://github.com/Shamvv/Neetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Shamvv/Neetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Shamvv/Neetcode/tree/master/1023-time-based-key-value-store) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shamvv/Neetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Shamvv/Neetcode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Shamvv/Neetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shamvv/Neetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shamvv/Neetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/Shamvv/Neetcode/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
