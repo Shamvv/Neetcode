@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shamvv/Neetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamvv/Neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shamvv/Neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/Shamvv/Neetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Shamvv/Neetcode/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/Shamvv/Neetcode/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shamvv/Neetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shamvv/Neetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0179-largest-number](https://github.com/Shamvv/Neetcode/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shamvv/Neetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/Shamvv/Neetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Shamvv/Neetcode/tree/master/0567-permutation-in-string) |
@@ -146,5 +148,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Shamvv/Neetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Shamvv/Neetcode/tree/master/0539-minimum-time-difference) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Shamvv/Neetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
