@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shamvv/Neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Shamvv/Neetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Shamvv/Neetcode/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/Shamvv/Neetcode/tree/master/0729-my-calendar-i) |
 | [0906-walking-robot-simulation](https://github.com/Shamvv/Neetcode/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shamvv/Neetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shamvv/Neetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shamvv/Neetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shamvv/Neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0729-my-calendar-i](https://github.com/Shamvv/Neetcode/tree/master/0729-my-calendar-i) |
 | [1023-time-based-key-value-store](https://github.com/Shamvv/Neetcode/tree/master/1023-time-based-key-value-store) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shamvv/Neetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Shamvv/Neetcode/tree/master/0729-my-calendar-i) |
 | [1023-time-based-key-value-store](https://github.com/Shamvv/Neetcode/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -197,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shamvv/Neetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shamvv/Neetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shamvv/Neetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Shamvv/Neetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Shamvv/Neetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
