@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shamvv/Neetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shamvv/Neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/Shamvv/Neetcode/tree/master/0278-first-bad-version) |
 | [0729-my-calendar-i](https://github.com/Shamvv/Neetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shamvv/Neetcode/tree/master/0731-my-calendar-ii) |
 | [1023-time-based-key-value-store](https://github.com/Shamvv/Neetcode/tree/master/1023-time-based-key-value-store) |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shamvv/Neetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shamvv/Neetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
