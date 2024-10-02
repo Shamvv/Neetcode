@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shamvv/Neetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shamvv/Neetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shamvv/Neetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2401-count-asterisks](https://github.com/Shamvv/Neetcode/tree/master/2401-count-asterisks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shamvv/Neetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shamvv/Neetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shamvv/Neetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
