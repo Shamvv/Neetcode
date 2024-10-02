@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shamvv/Neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Shamvv/Neetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Shamvv/Neetcode/tree/master/0539-minimum-time-difference) |
+| [0605-can-place-flowers](https://github.com/Shamvv/Neetcode/tree/master/0605-can-place-flowers) |
 | [0729-my-calendar-i](https://github.com/Shamvv/Neetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shamvv/Neetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Shamvv/Neetcode/tree/master/0859-design-circular-deque) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Shamvv/Neetcode/tree/master/0179-largest-number) |
+| [0605-can-place-flowers](https://github.com/Shamvv/Neetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Shamvv/Neetcode/tree/master/0680-valid-palindrome-ii) |
 ## Recursion
 |  |
