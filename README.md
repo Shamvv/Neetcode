@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shamvv/Neetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Shamvv/Neetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shamvv/Neetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shamvv/Neetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2401-count-asterisks](https://github.com/Shamvv/Neetcode/tree/master/2401-count-asterisks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shamvv/Neetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shamvv/Neetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shamvv/Neetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shamvv/Neetcode/tree/master/0680-valid-palindrome-ii) |
 | [1923-sentence-similarity-iii](https://github.com/Shamvv/Neetcode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shamvv/Neetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shamvv/Neetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shamvv/Neetcode/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/Shamvv/Neetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Shamvv/Neetcode/tree/master/0680-valid-palindrome-ii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shamvv/Neetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shamvv/Neetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shamvv/Neetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shamvv/Neetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Interactive
 |  |
